@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "web3-teacoin": "^1.0.0"
+  },
+  "name": "appeth-teaci",
+  "version": "1.0.0",
+  "main": "index.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git"
+  
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/appeth/appeth-teaci/issues"
+  },
+  "homepage": "https://github.com/appeth/appeth-teaci#readme",
+  "description": ""
+}
